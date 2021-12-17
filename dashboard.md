@@ -1,6 +1,8 @@
 ---
-layout: page
+# layout: page
+theme: jekyll-theme-hacker
 title: "Dashboard"
+description: 舰长补给全保底，舰长副本零掉落
 permalink: /dashboard/
 ---
 # Dashboard
