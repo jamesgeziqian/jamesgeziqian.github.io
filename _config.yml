@@ -1,8 +1,8 @@
 defaults:
-    -
-        scope: 
-            path: ""
-        values:
-            theme: jekyll-theme-hacker
+  -
+    scope: 
+      path: ""
+    values:
+      theme: jekyll-theme-hacker
 title: jamesgeziqian's homepage
 description: 舰长补给全保底，舰长副本零掉落
