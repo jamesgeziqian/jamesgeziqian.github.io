@@ -1,3 +1,7 @@
+---
+title: jamesgeziqian's homepage
+description: 舰长补给全保底，舰长副本零掉落
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jamesgeziqian/jamesgeziqian.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
